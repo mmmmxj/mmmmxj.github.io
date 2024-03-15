@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm pursing for PhD. from [College of Intelligence and Computing](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/). My research interest includes IoT and Wireless Sensing.
+
+I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/faculty/wyqu/index.html) and [Assoc. Res. Tong](http://cic.tju.edu.cn/faculty/tongxinyu/index.html) of TankLab, Tianjin University. 
+
 
 A data-driven personal website
 ======
