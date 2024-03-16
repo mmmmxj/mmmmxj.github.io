@@ -20,25 +20,21 @@ I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/fac
 
 * 2016.09-2021.06 B.E. in Computer Science and Technology (Japanese Intensive), Dalian University of Technology
 
- 📝 Publications
+🀄 Publications
 ======
 Conference
 ------
-1. **Secur-Fi: A Secure Wireless Sensing System Based on Commercial Wi-Fi Devices.** 
-
-   **Xuanqi Meng**, Jianrun Zhou, Xiulong Liu, Xinyu Tong*, Wenyu Qu and Jianrong Wang.
-   
+1. **Secur-Fi: A Secure Wireless Sensing System Based on Commercial Wi-Fi Devices.** <br/>
+   **Xuanqi Meng**, Jianrun Zhou, Xiulong Liu, Xinyu Tong*, Wenyu Qu and Jianrong Wang.<br/>
    <font color = blue> INFOCOM 2023 (CCF A) </font>[Available](https://ieeexplore.ieee.org/abstract/document/10229055)
 
 Journal
 ------
-1. **HyperTracking: Exploring the Hyperbolic Model for Non-line-of-sight Device-free Wi-Fi Tracking**
-
-   Xiaoqiang Xu, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu and Wenyu Qu.
-
+1. **HyperTracking: Exploring the Hyperbolic Model for Non-line-of-sight Device-free Wi-Fi Tracking**<br/>
+   Xiaoqiang Xu, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu and Wenyu Qu.<br/>
    IMWUT 2024 (CCF A) [Available](https://dl.acm.org/doi/abs/10.1145/3631434)
 
-🏅 Honors and Awards
+ 🎉 Honors and Awards
 ======
 * 2022-2023 Merit Student of Tianjin University
 * 2022-2023 Xiaomi Scholarship
