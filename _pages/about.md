@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursing for PhD. from [College of Intelligence and Computing](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/). My research interest includes IoT and Wireless Sensing.
+I'm pursing for PhD. from [College of Intelligence and Computing](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/). 
+
+My research interest includes IoT and Wireless Sensing.
 
 I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/faculty/wyqu/index.html) and [Assoc. Res. Tong](http://cic.tju.edu.cn/faculty/tongxinyu/index.html) of TankLab, Tianjin University. 
 
