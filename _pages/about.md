@@ -14,9 +14,9 @@ I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/fac
 
 Education
 ======
-2024.09-now  Ph.D in Software Engineering, Tianjin University 
+2024.09-now  Ph.D in Software Engineering, Tianjin University. Advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/faculty/wyqu/index.html) 
 
-2021.09-2024.06 M.S in Computer Technology, Tianjin University
+2021.09-2024.06 M.S in Computer Technology, Tianjin University. Advised by [Prof. Wang Jianrong](https://cic.tju.edu.cn/faculty/wjr/researchInfo.html)
 
 2016.09-2021.06 B.E. in Computer Science and Technology (Japanese Intensive), Dalian University of Technology
 
@@ -36,9 +36,10 @@ Journal
 
    Xiaoqiang Xu, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu and Wenyu Qu.
 
-   IMWUT 2023 (CCF A) [Available](https://dl.acm.org/doi/abs/10.1145/3631434)
+   IMWUT 2024 (CCF A) [Available](https://dl.acm.org/doi/abs/10.1145/3631434)
 
  Honors and Awards
 ======
-
-
+1. 2022-2023 Merit Student of Tianjin University
+2. 2022-2023 Xiaomi Scholarship
+3. 2021.06 Outstanding Graduate of Dalian and Dalian University of Technology.
