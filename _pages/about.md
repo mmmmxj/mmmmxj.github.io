@@ -26,12 +26,12 @@ I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/fac
 ## &ensp; **Conference**
 1. **Secur-Fi: A Secure Wireless Sensing System Based on Commercial Wi-Fi Devices.** <br/>
    **Xuanqi Meng**, Jianrun Zhou, Xiulong Liu, Xinyu Tong*, Wenyu Qu and Jianrong Wang.<br/>
-  <font color = blue> INFOCOM 2023 (CCF A) </font> [Available](https://ieeexplore.ieee.org/abstract/document/10229055)
+   <font color = blue> INFOCOM 2023 (CCF A) </font> [Available](https://ieeexplore.ieee.org/abstract/document/10229055)
 
 ## &ensp; **Journal**
 1. **HyperTracking: Exploring the Hyperbolic Model for Non-line-of-sight Device-free Wi-Fi Tracking**<br/>
    Xiaoqiang Xu, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu and Wenyu Qu.<br/>
-<font color = blue> IMWUT 2024 (CCF A) </font>[Available](https://dl.acm.org/doi/abs/10.1145/3631434)
+   <font color = blue> IMWUT 2024 (CCF A) </font>[Available](https://dl.acm.org/doi/abs/10.1145/3631434)
 
 ## 🎉 Honors and Awards
 * 2022-2023 Merit Student of Tianjin University
