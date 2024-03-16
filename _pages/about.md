@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span class='anchor' id='about-me'></span>
 
 I'm pursing for PhD. from [College of Intelligence and Computing](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/). 
 
