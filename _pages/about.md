@@ -35,5 +35,5 @@ I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/fac
 
 ## 🎉 Honors and Awards
 * 2022-2023 Merit Student of Tianjin University
-* 2022-2023 Xiaomi Scholarship
+* 2022-2023 Xiaomi Scholarship of Tianjin University
 * 2021.06 Outstanding Graduate of Dalian and Dalian University of Technology.
