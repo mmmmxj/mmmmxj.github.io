@@ -27,6 +27,9 @@ I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/fac
 1. **Secur-Fi: A Secure Wireless Sensing System Based on Commercial Wi-Fi Devices.** <br/>
    **Xuanqi Meng**, Jianrun Zhou, Xiulong Liu, Xinyu Tong*, Wenyu Qu and Jianrong Wang.<br/>
    **INFOCOM 2023 (CCF A)** [Available](https://ieeexplore.ieee.org/abstract/document/10229055)
+2. **Enabling 6D Pose Tracking on Your Acoustic Devices.** <br/>
+   Yuanyuan Wu, Sheng Chen, **Xuanqi Meng**,  Xinyu Tong*, Xiulong Liu, Xin Xie and Wenyu Qu .<br/>
+   **MoBiSys 2024 (CCF B)**
 
 ## &ensp; **Journal**
 1. **HyperTracking: Exploring the Hyperbolic Model for Non-line-of-sight Device-free Wi-Fi Tracking**<br/>
