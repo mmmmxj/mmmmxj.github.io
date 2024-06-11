@@ -36,7 +36,7 @@ I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/fac
    **IMWUT 2024 (CCF A)** [Available](https://dl.acm.org/doi/abs/10.1145/3631434)
 
 ## 🎉 Honors and Awards
-* 2023 Outstanding Graduate of Tianjin University
+* 2023.06 Outstanding Graduate of Tianjin University
 * 2022-2023 Merit Student of Tianjin University
 * 2022-2023 Xiaomi Scholarship of Tianjin University
 * 2021.06 Outstanding Graduate of Dalian and Dalian University of Technology.
