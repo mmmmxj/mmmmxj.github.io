@@ -24,23 +24,19 @@ I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/fac
 
 ## 🀄 Publications
 ## &ensp; **Conference**
-1. **Secur-Fi: A Secure Wireless Sensing System Based on Commercial Wi-Fi Devices.** <br/>
-   **Xuanqi Meng**, Jianrun Zhou, Xiulong Liu, Xinyu Tong*, Wenyu Qu and Jianrong Wang.<br/>
-   **INFOCOM 2023 (CCF A)** [Available](https://ieeexplore.ieee.org/abstract/document/10229055)
-2. **Enabling 6D Pose Tracking on Your Acoustic Devices.** <br/>
-   Yuanyuan Wu, Sheng Chen, **Xuanqi Meng**,  Xinyu Tong*, Xiulong Liu, Xin Xie and Wenyu Qu .<br/>
-   **MoBiSys 2024 (CCF B)** [Available](https://dl.acm.org/doi/abs/10.1145/3643832.3661875)
+**Secur-Fi: A Secure Wireless Sensing System Based on Commercial Wi-Fi Devices.** <br/>
+   **Xuanqi Meng**, Jianrun Zhou, Xiulong Liu, Xinyu Tong*, Wenyu Qu and Jianrong Wang. **INFOCOM 2023 (CCF A)** [Available](https://ieeexplore.ieee.org/abstract/document/10229055)<br/>
+**Enabling 6D Pose Tracking on Your Acoustic Devices.** <br/>
+   Yuanyuan Wu, Sheng Chen, **Xuanqi Meng**,  Xinyu Tong*, Xiulong Liu, Xin Xie and Wenyu Qu. **MoBiSys 2024 (CCF B)** [Available](https://dl.acm.org/doi/abs/10.1145/3643832.3661875)
    
 ## &ensp; **Journal**
-1.**Baton: Compensate for Missing Wi-Fi Features for Practical Device-free Tracking**
-  Yiming Zhao, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu, Xin Xie and Wenyu Qu.<br/>
-  **TMC 2025(CCF A)** [Available](https://ieeexplore.ieee.org/abstract/document/10962318)
-2. **HyperTracking: Exploring the Hyperbolic Model for Non-line-of-sight Device-free Wi-Fi Tracking**<br/>
-   Xiaoqiang Xu, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu and Wenyu Qu.<br/>
-   **IMWUT 2024 (CCF A)** [Available](https://dl.acm.org/doi/abs/10.1145/3631434)
+**Baton: Compensate for Missing Wi-Fi Features for Practical Device-free Tracking**
+  Yiming Zhao, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu, Xin Xie and Wenyu Qu. **TMC 2025(CCF A)** [Available](https://ieeexplore.ieee.org/abstract/document/10962318)<br/>
+**HyperTracking: Exploring the Hyperbolic Model for Non-line-of-sight Device-free Wi-Fi Tracking**<br/>
+   Xiaoqiang Xu, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu and Wenyu Qu. **IMWUT 2024 (CCF A)** [Available](https://dl.acm.org/doi/abs/10.1145/3631434)
 
 ## 🎉 Honors and Awards
-* 2024.06 Outstanding Graduation Thesis of Tianjin University
+* 2024.06 Outstanding Master Thesis of Tianjin University
 * 2024.06 Outstanding Graduate of Tianjin University
 * 2022-2023 Merit Student of Tianjin University
 * 2022-2023 Xiaomi Scholarship of Tianjin University
