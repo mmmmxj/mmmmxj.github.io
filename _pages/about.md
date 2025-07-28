@@ -12,7 +12,7 @@ I'm pursing for PhD. from [College of Intelligence and Computing](https://cic.tj
 
 My research interest includes IoT and Wireless Sensing.
 
-I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/faculty/wyqu/index.html) and [Assoc. Res. Tong Xinyu](http://cic.tju.edu.cn/faculty/tongxinyu/index.html) of TankLab, Tianjin University. 
+I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/faculty/wyqu/index.html) and [Assoc. Prof. Tong Xinyu](http://cic.tju.edu.cn/faculty/tongxinyu/index.html) of TankLab, Tianjin University. 
 
 
 ## 🎓 Education
