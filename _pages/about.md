@@ -30,7 +30,9 @@ I am very fortunate to be advised by [Prof. Qu Wenyu](https://cic.tju.edu.cn/fac
    Yuanyuan Wu, Sheng Chen, **Xuanqi Meng**,  Xinyu Tong*, Xiulong Liu, Xin Xie and Wenyu Qu. **MoBiSys 2024 (CCF B)** [Available](https://dl.acm.org/doi/abs/10.1145/3643832.3661875)
    
 ## &ensp; **Journal**
-**Baton: Compensate for Missing Wi-Fi Features for Practical Device-free Tracking**
+**MetaTrack: Enabling Wi-Fi Device Free Tracking in Complex Scenarios**<br/>
+ **Xuanqi Meng**, Weiping Ge, Yichen Tian, Xinyu Tong*, Xiulong Liu, Xin Xie and Wenyu Qu. **IMWUT 2026 (CCF A)**
+**Baton: Compensate for Missing Wi-Fi Features for Practical Device-free Tracking**<br/>
   Yiming Zhao, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu, Xin Xie and Wenyu Qu. **TMC 2025(CCF A)** [Available](https://ieeexplore.ieee.org/abstract/document/10962318)<br/>
 **HyperTracking: Exploring the Hyperbolic Model for Non-line-of-sight Device-free Wi-Fi Tracking**<br/>
    Xiaoqiang Xu, **Xuanqi Meng**, Xinyu Tong*, Xiulong Liu and Wenyu Qu. **IMWUT 2024 (CCF A)** [Available](https://dl.acm.org/doi/abs/10.1145/3631434)
